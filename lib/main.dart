@@ -1,6 +1,7 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:food_delivery/provider/favourite_provider.dart';
+import 'package:food_delivery/provider/quantity.dart';
 import 'package:food_delivery/views/app_main_screen.dart';
 import 'package:provider/provider.dart';
 
@@ -16,7 +17,12 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MultiProvider(
-      providers: [ChangeNotifierProvider(create: (_) => FavouriteProvider())],
+      providers: [
+        // for favourite provider
+        ChangeNotifierProvider(create: (_) => FavouriteProvider()),
+        // for quantity provider
+        ChangeNotifierProvider(create: (_) => QuantityProvider()),
+      ],
       child: const MaterialApp(
         debugShowCheckedModeBanner: false,
         home: AppMainScreen(),

@@ -64,10 +64,6 @@ Chúng tôi rất hoan nghênh các ý tưởng và đóng góp từ cộng đ�
 3. Tạo **Pull Request** để chúng tôi xem xét và tích hợp.  
 
 ---
-
-## 📄 Giấy phép  
-Hãy tự do sử dụng và tùy chỉnh cho mục đích cá nhân hoặc thương mại.  
-
 ---  
 ### 📩 Liên hệ  
 Nếu bạn gặp vấn đề hoặc có câu hỏi, vui lòng tạo **Issue** trong repository hoặc liên hệ qua email: **chaolaolo290604@gmail.com**.  

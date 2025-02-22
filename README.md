@@ -58,10 +58,10 @@
 ---
 
 ## 🤝 Đóng góp  
-Chúng tôi rất hoan nghênh các ý tưởng và đóng góp từ cộng đồng. Vui lòng:  
+Tôi rất hoan nghênh các ý tưởng và đóng góp từ cộng đồng. Vui lòng:  
 1. **Fork** repository.  
 2. Thực hiện thay đổi trong nhánh của bạn.  
-3. Tạo **Pull Request** để chúng tôi xem xét và tích hợp.  
+3. Tạo **Pull Request** để được xem xét và tích hợp.  
 
 ---
 ---  
